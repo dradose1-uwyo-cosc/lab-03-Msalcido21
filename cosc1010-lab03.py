@@ -3,7 +3,7 @@
 # 9/25/2024
 # Lab 03 
 # Lab Section: 15
-# Sources, people worked with, help given to: 
+# N/A
 # your
 # comments
 # here
